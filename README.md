@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @pengfei0703
-- 👀 I’m interested in mathematics and computer science applied in biology
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 reach me: pengfei.wang@lirmm.fr
+#This is the python practice for the course " Algorithms for DNA sequences"
 
 <!---
 pengfei0703/pengfei0703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
